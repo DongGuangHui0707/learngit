@@ -12,7 +12,7 @@ git bash 下操作文件及文件夹命令
 
 5， touch : 新建一个文件 如 touch index.js 就会在当前目录下新建一个index.js文件。
 
-6，rm:  删除一个文件, rm index.js 就会把index.js文件删除.
+6， rm:  删除一个文件, rm index.js 就会把index.js文件删除.
 
 7,  mkdir: 新建一个目录,就是新建一个文件夹. 如mkdir src 新建src 文件夹.
 
